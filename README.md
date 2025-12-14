@@ -1,4 +1,7 @@
 # Experiment-5-Multiple-Sever-with-infinite-capacity-(M/M/k)-(oo/FIFO)
+# NAME:BUSHPIKA C
+# REG NO: 250074734
+# SLOT: 3P1-1
 # Aim
  	To find 
   
@@ -22,9 +25,15 @@ This lets us treat the M/M/∞ model as a simple Markov chain and find the distr
 <img width="806" height="297" alt="image" src="https://github.com/user-attachments/assets/e08285b0-8d2d-4b63-8e52-4bf2d065b0ff" />
 
 # Program
+<img width="582" height="727" alt="image" src="https://github.com/user-attachments/assets/b6535f7a-af25-4a1d-896a-bb0fe2803926" />
+
 
 # Output
+<img width="907" height="372" alt="image" src="https://github.com/user-attachments/assets/7ff30d79-3cf9-4a83-9dcc-f2f8cf06daf2" />
 
 # Result
        The average number of material in the system and in the conveyor and waiting are  successfully found.
+ # COLAB LINK:
+ https://colab.research.google.com/drive/1IU-mGHTNNElotj6YBh3fK43RwtrIu13R?usp=sharing
+ 
 
